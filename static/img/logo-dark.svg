@@ -1,0 +1,10 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Builder Blocks - stacked pyramid for OneMillion (Dark Mode) -->
+  <!-- Bottom row: two blocks -->
+  <rect x="4" y="20" width="10" height="8" rx="1.5" fill="#fafafa"/>
+  <rect x="18" y="20" width="10" height="8" rx="1.5" fill="#fafafa"/>
+  <!-- Middle block -->
+  <rect x="11" y="10" width="10" height="8" rx="1.5" fill="#fafafa"/>
+  <!-- Top block - the "one" that starts the million -->
+  <rect x="11" y="0" width="10" height="8" rx="1.5" fill="#fafafa" opacity="0.4"/>
+</svg>
